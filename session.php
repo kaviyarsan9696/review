@@ -1,0 +1,3 @@
+<?Php
+	session_destroy();
+?>
